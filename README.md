@@ -6,10 +6,6 @@
 ![X-Wallet Banner](/public/image.png)
 
 
-## 🌐 Live Demo
-
-🔗 [x-store-nine.vercel.app](https://x-store-nine.vercel.app/)
-
 ---
 
 ## ⚙️ Tech Stack
